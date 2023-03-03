@@ -1,0 +1,31 @@
+:root {
+    --primary-color: #131086;
+    --secondary-color: #b621f3;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.bt1{
+    
+}
+.bt2{
+    padding: 0;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    background: #FFFFCC;
+    padding: 35px;
+}
+.item {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h2 {
+    color: orange;
+}
